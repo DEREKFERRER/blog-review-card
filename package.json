@@ -1,0 +1,14 @@
+{
+  "name": "blog-review-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.6"
+  }
+}
